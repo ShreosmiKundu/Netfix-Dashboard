@@ -1,0 +1,16 @@
+# Ignore Power BI temporary files and generated data caches
+*.pbix.t
+*.pbix.temp
+*.pbix.sb
+*.pbixBkup
+*.pbit
+*.pbiviz
+*.data
+*.cache
+*.rdl
+
+# Ignore Visual Studio Code settings
+.vscode/
+
+# Ignore Mac OS system files
+.DS_Store
